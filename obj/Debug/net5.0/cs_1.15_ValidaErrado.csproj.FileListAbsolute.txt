@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.exe
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.deps.json
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.runtimeconfig.json
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.runtimeconfig.dev.json
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.dll
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\ref\cs_1.15_ValidaErrado.dll
+E:\GitHub\cs_1.15_ValidaErrado\bin\Debug\net5.0\cs_1.15_ValidaErrado.pdb
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.csprojAssemblyReference.cache
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.AssemblyInfo.cs
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.dll
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\ref\cs_1.15_ValidaErrado.dll
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.pdb
+E:\GitHub\cs_1.15_ValidaErrado\obj\Debug\net5.0\cs_1.15_ValidaErrado.genruntimeconfig.cache
